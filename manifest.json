@@ -1,0 +1,21 @@
+{
+    "short_name": "Mikka Portfolio",
+    "name": "Mikhael Portfolio",
+    "icons": [
+        {
+            "src": "/port-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/port-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/",
+    "orientation": "portrait",
+    "background_color": "#3367D6",
+    "display": "fullscreen",
+    "theme_color": "#3367D6"
+}
